@@ -1,0 +1,40 @@
+h1{
+color:honeydew;
+    font-size:50px;
+    font-weight:bold;
+    font-family:"Impact";
+    text-align: center;
+    background-color: black;
+}
+h1.rorikon{
+color:black;
+    font-size:50px;
+    font-weight:bold;
+    font-family:"Impact";
+    text-align: center;
+    background-color: hotpink;
+}
+h2.rori{
+color:black;
+    font-size:25px;
+    font-weight:bold;
+    font-family:"Impact";
+    text-align: center;
+    background-color: lightgreen;
+}
+h2{
+color:blue;
+    font-size:25px;
+    font-weight:bold;
+    font-family:"Impact";
+    text-align: center;
+    background-color: honeydew;
+}
+h4{
+color:blue;
+    font-size:15px;
+}
+
+body{
+    background-image: url("../images/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89.jfif");
+}

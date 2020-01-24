@@ -1,0 +1,29 @@
+h1{
+color:red;
+    font-size:40px;
+    font-weight:bold;
+    font-family:"Impact";
+    text-align: center;
+    background-color: aquamarine;
+}
+body{
+    background-image: url("../images/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89.jfif");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: bottom right;
+}
+tr{
+ background-color: skyblue;   
+}
+h2{
+ background-color: gainsboro; 
+ text-align: center; 
+ color:honeydew;   
+}
+p{
+    background-image: url("../images/images.jfif");
+   background-position : center; 
+}
+ol{
+ background-image: url("../images/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%20(1).jfif");    
+}
